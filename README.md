@@ -1,5 +1,4 @@
 # Keylogger(Keyxtract)
-Python 3x based keylogger
 This is a simple Python 3x based keylogger. In order to use this keylogger first you need to turn off the two factor authentication for your mail
 id and turn on the less secure apps to make python to interact with your mail server.
 Whenever you'd like to get any kind of information from the victim side, you are suppose to drop some payload into their system 
